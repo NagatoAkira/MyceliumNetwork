@@ -2,7 +2,7 @@
 "In biological systems, learning and functioning are inseparable. Why should AI be any different?"
 
 🌿 The Vision
-The Mycelium Method is a paradigm shift away from "frozen" neural architectures. Traditional Deep Learning (CNNs, Transformers) creates a rigid separation between the training phase and the inference phase. Our goal is to develop a Continuous Growth AI—an organic computational substrate where the architecture isn't engineered by humans but "grown" through environmental interaction.
+The Mycelium Method is a paradigm shift away from "frozen" neural architectures. Traditional Deep Learning (CNNs, Transformers) creates a rigid separation between the training phase and the inference phase. Our goal is to develop a Continuous Growth AI-an organic computational substrate where the architecture isn't engineered by humans but "grown" through environmental interaction.
 
 We are moving towards Non-Modular AI: a seamless, uniform core that doesn't require specific modules for different tasks. Simply plug in new receptors (inputs) or effectors (outputs), and the Mycelium will adapt, proving that "old" neurons carry the foundational features necessary for "new" data.
 
@@ -15,7 +15,7 @@ Optimization is driven by survival of the fittest, not just backpropagation.
 
 Culling: The bottom-performing agents are periodically removed.
 
-Budding: Elite agents "bud" offspring—mutated copies that inherit the parent's knowledge but explore new feature spaces.
+Budding: Elite agents "bud" offspring-mutated copies that inherit the parent's knowledge but explore new feature spaces.
 
 3. Cognitive Core (Memory Freezing)
 As the system reaches historical performance peaks, the most successful agents are "frozen" into a Long-Term Memory Core. These "Veterans" provide a stable foundation of knowledge, allowing younger "Plastic" neurons to focus on rare features and edge cases without risking catastrophic forgetting.
